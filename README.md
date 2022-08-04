@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   </a>
 </h1>
 
-I have completed my Bachelors in Computer Science & Engineering.Now I'm recently join in Cybrosys Technologies as Python Odoo developer.I like to learn new things and make something from it.
+I have completed my Bachelors in Computer Science & Engineering. Now I'm recently join in Cybrosys Technologies as Python Odoo developer. I like to learn new things and make something from it.
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=HoLyGhxsT&label=Views&color=blue&style=plastic" alt="akshaysanze006" />
